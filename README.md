@@ -521,3 +521,11 @@ built for bulk traffic; the waits are the price of not being blocked.
 
 Add your own verification to the chain if any number matters commercially — the audit
 files exist precisely so that a number can be traced back to the request that produced it.
+
+---
+
+## License
+
+MIT License - see [LICENSE](LICENSE).
+
+Copyright (c) 2026 Suvamoy Sen <suvamoy.sen@pm.me>
